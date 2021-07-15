@@ -11,3 +11,5 @@ Practice - 9 refers to Kadane Algorithm , finding out the max sum of an subarray
 
 Practice 10 refers to the algorithm of Next Permutation
 
+Practice 11 - Count Inversion , Using Brute Force Method
+
