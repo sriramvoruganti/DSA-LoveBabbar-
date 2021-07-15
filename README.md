@@ -13,3 +13,5 @@ Practice 10 refers to the algorithm of Next Permutation
 
 Practice 11 - Count Inversion , Using Brute Force Method
 
+Practice 12 - This code involves the buying and selling stock algorithm
+
