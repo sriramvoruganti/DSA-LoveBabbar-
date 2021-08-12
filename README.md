@@ -1,9 +1,7 @@
 # DSA-LoveBabbar-
 Practice - 6 refers to the sorting of negative and positive numbers of a given array
 
-
 Practice - 7 refers to finding the union of a given array
-
 
 Practice - 8 refers to the left rotation of an array by one position
 
@@ -16,4 +14,6 @@ Practice 11 - Count Inversion , Using Brute Force Method
 Practice 12 - This code involves the buying and selling stock algorithm
 
 Practice 15 - 2-D spiral
+
+Practice 16 - Searching a 2-D matrix
 
